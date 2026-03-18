@@ -113,7 +113,7 @@ earthquake-analysis/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/earthquake-pattern-analysis.git
+git clone https://github.com/harsh-stack/earthquake-pattern-analysis.git
 cd earthquake-pattern-analysis
 
 # Install dependencies
